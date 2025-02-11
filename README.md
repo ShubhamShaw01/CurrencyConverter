@@ -41,4 +41,5 @@ To convert 100 USD to EUR:
 1. Select **USD** as the "From" currency and **EUR** as the "To" currency.
 2. Enter `100` in the input field.
 3. Click the **Convert** button to get the converted amount.
+![Thumbnail](https://github.com/user-attachments/assets/7b62250d-53f6-48a7-8d2a-1823d5a32a49)
 
